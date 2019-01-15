@@ -1,0 +1,267 @@
+
+.Poster{
+    background-color: black;
+}
+
+img{
+    height: 500px;
+    width: 2000px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.active {
+  background-color: #cc0000;
+}
+.last{
+    float:right
+}
+
+h1{
+    position: relative;
+    color: white;
+    top: -450px;
+    left: 480px;
+    font-size: 50px;
+    text-shadow: 5px 5px 5px #cc0000;
+    font-family: Times;
+}
+
+p{
+position: relative;
+width: 950px;
+text-align: justify;
+left: 200px;
+ color: white;
+ background-color: black;
+ border: 1px solid white;
+ padding: 20px;
+}
+
+h2{
+    position: relative;
+    top: -20px;
+    left: 200px;
+    font-size: 40px;
+    text-shadow: 5px 5px 5px red;
+    border-bottom: 3px solid white; 
+    width: 1425px
+}
+
+h3{
+    position: relative;
+    top: -250px;
+    left: 200px;
+    font-size: 40px;
+    text-shadow: 5px 5px 5px red;
+    border-bottom: 3px solid white; 
+    width: 1425px
+}
+
+#yo{
+    width: 450px;
+    height: 300px;
+    padding-right: 35px;
+}
+table{
+    position: relative;
+    left: 200px;
+    top: -150px;
+}
+
+pre{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#bu{
+    width: 450px;
+    height: 600px;
+    padding-right: 35px;
+}
+
+#cont{
+    position: relative;
+    top: -200px;
+    left: 200px;
+}
+
+#a{
+    padding-right: 140px
+}
+#b{
+    padding-right: 143px
+}
+#c{
+    padding-right: 49px
+}
+#d{
+    padding-right: 59px
+}
+
+select{
+width: 150px;
+    
+}
+
+#button{
+    padding: 5px 10px;
+    background-color:#cc0000;
+    color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+#r{
+    padding-left:  130px;
+    padding-right: 10px;
+}
+
+#pozePreturi{
+    position: relative;
+    top:-50px;
+}
+
+.rotite{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    top: -230px;
+    left :1300px;
+}
+
+#divDataView{
+    position: relative;
+    left: 200px;
+}
+
+.contact{
+    position: relative;
+    left: 200px;
+    top: -200px;
+    padding-bottom: 40px;
+    
+}
+
+#formUser{
+    position: relative;
+    left: 200px;
+    top: -250px;
+}
+
+#nume{
+    position: relative;
+    left: 175px;
+}
+
+#prenume{
+    position: relative;
+    left: 155px;
+}
+
+#a1{
+    position: relative;
+    left: 34px;
+}
+
+#a2{
+    position: relative;
+    left: 28px;
+}
+#a3{
+    position: relative;
+    left: 5px;
+}
+
+#tabelUser{
+    position: absolute;
+    left: 950px;
+}
+
+#profil {
+    position: relative;
+    left: 1600px;
+    top:-4020px;
+    font-size: 18px;
+}
+#AfisareProfil{
+    position: relative;
+    left: 1600px;
+    top:-4020px;
+    font-size: 18px;
+}
+
+#model{
+    position: relative;
+    top: -100px;
+    left: 200px;
+    width: 350px;
+    height: 450px;
+    padding-bottom: 30px;
+}
+#model2{
+       position: relative;
+    top: -100px;
+    left: 370px;
+   width: 350px;
+    height: 450px;
+    padding-bottom: 30px;
+}
+
+#model3{
+    position: relative;
+    top: -100px;
+    left: 570px;
+   width: 350px;
+    height: 450px;
+    padding-bottom: 30px;
+}
+
+#json{
+    position: relative;
+    top: 200px;
+    left: 1150px;
+}
+
+.radioButtons{
+    position: relative;
+    left: 200px;
+    top:-250px;
+     float: left;
+}
+
+#radioButtons{
+    position: relative;
+    top: -100px;
+}
+
+#poze{
+    position:relative;
+    top:-200px;
+    padding-bottom: 70px;
+}
+
